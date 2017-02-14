@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>АЙ ЭМ МОГУ</title>
+    <title>MyApp</title>
 </head>
 <body>
 <%--это еще HTML--%>
