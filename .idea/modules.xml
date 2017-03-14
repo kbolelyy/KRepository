@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KRepository.iml" filepath="$PROJECT_DIR$/KRepository.iml" />
       <module fileurl="file://$PROJECT_DIR$/app-gen/app-gen.iml" filepath="$PROJECT_DIR$/app-gen/app-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/busines/busines.iml" filepath="$PROJECT_DIR$/busines/busines.iml" />
     </modules>
   </component>
 </project>
